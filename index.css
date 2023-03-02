@@ -1,0 +1,64 @@
+/* #nave_bar{
+    position: fixed;
+} */
+.nav_img{
+    margin-left: 110px;
+}
+#donate_now{
+    margin-right: 110px;
+    border-radius: 5px;
+}
+.Overseas_Donars{
+    color: rgb(102, 192, 12);
+}
+.navbar-nav a:hover{
+    margin-left: 30px;
+    border-bottom: 2px solid rgb(69, 134, 3);
+    transition: 0.5;
+}
+.page{
+    display: flex;
+    justify-content: center;
+    padding: 60px, 30px, 40px, 20px;
+}
+.page_text{
+    /* display: flex; */
+    justify-content: center;
+    /* background-color: azure; */
+}
+.page_image{
+    display: flex;
+    justify-content: center;
+    /* background-color: beige; */
+    padding-right: 140px;
+    padding-top: 80px;
+}
+.text{
+    margin-top: 90px;
+    margin-left: 20px;
+    padding-left: 100px;
+}
+span{
+    color: rgba(34, 170, 21, 0.89);
+}
+.text2{
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-left: 100px;
+}
+.span2{
+    color: rgba(10, 126, 221, 0.986);
+}
+.text3{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 100px;
+    font-weight: 500;
+}
+#read_more_button{
+    margin-left: 120px;
+    font-size: medium;
+}
+.parrents_box{
+    background-color:  rgb(177, 255, 170);
+}
